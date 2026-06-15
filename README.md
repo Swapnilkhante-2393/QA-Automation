@@ -1,2 +1,2 @@
 # QA-Automation
-Thise is my first Automated testing framework for web applications
+Thise is my first Automated testing framework for web application
